@@ -7,7 +7,7 @@ Track your income, expenses, and manage categories with an intuitive interface.
 
 ## Demo
 
-[Live Demo](https://your-live-demo-link.com) 
+[Live Demo](https://expense-tracking-two.vercel.app/) 
 
 ---
 
