@@ -6,6 +6,12 @@ This is the **frontend** of the Expense Tracker application, built using **React
 
 ---
 
+## Demo
+
+[Live Demo](https://expense-tracking-two.vercel.app/) 
+
+---
+
 ## ✨ Features
 
 - 🔐 User Authentication (Login/Register UI)
@@ -18,21 +24,17 @@ This is the **frontend** of the Expense Tracker application, built using **React
 
 ---
 
-## Demo
+## 🧰 Technologies Used
 
-[Live Demo](https://expense-tracking-two.vercel.app/) 
-
-
-## Technologies Used
-
-- **React** – Frontend library for building UI
-- **Tailwind CSS** – Utility-first CSS framework for styling
-- **React Router Dom** – For client-side routing
-- **Redux Toolkit** – State management
-- **React Query** – Data fetching and caching
-- **Formik & Yup** – Form handling and validation
-- **Chart.js & react-chartjs-2** – Displaying charts and graphs
-- **Axios** – HTTP client for API calls
-
-
+| Category       | Tools & Libraries |
+|----------------|------------------|
+| ⚛️ Frontend     | React, Vite       |
+| 🎨 Styling      | Tailwind CSS     |
+| 📦 State Mgmt   | Redux Toolkit    |
+| 🔄 API Fetching | Axios, React Query |
+| 📊 Charts       | Chart.js, react-chartjs-2 |
+| 🧭 Routing      | React Router     |
+| ✅ Forms        | Formik, Yup      |
+| 🎯 Icons        | React Icons, Heroicons |
+| 🧪 Dev Tools    | React Query Devtools |
 
