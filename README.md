@@ -1,7 +1,20 @@
-# Expense Tracker
+# 💸 Expense Tracker (Frontend)
 
-A modern, responsive Expense Tracker web application built with **React**, **Tailwind CSS**, **HTML**, **JavaScript**, and **CSS**.  
-Track your income, expenses, and manage categories with an intuitive interface.
+This is the **frontend** of the Expense Tracker application, built using **React**, **Tailwind CSS**, and modern UI tools. It allows users to manage their expenses in a clean and intuitive interface.
+
+> 💡 Backend development is in progress and will be integrated soon.
+
+---
+
+## ✨ Features
+
+- 🔐 User Authentication (Login/Register UI)
+- 📋 Add / Edit / Delete Transactions
+- 📊 Transaction Filtering and Summarization
+- 📈 Responsive Dashboard & Charts
+- 🎨 Clean UI with Tailwind CSS
+- ⚛️ React Router for navigation
+- ⚙️ Axios integration for API requests (ready for backend)
 
 ---
 
@@ -9,19 +22,6 @@ Track your income, expenses, and manage categories with an intuitive interface.
 
 [Live Demo](https://expense-tracking-two.vercel.app/) 
 
----
-
-## Features
-
-- Add, update, and delete transactions (income and expenses)
-- Categorize expenses for better tracking
-- Responsive design using Tailwind CSS
-- Form validation with Yup and Formik
-- Interactive charts to visualize spending patterns
-- User authentication and profile management *(if implemented)*
-- State management with Redux Toolkit and React Query
-
----
 
 ## Technologies Used
 
